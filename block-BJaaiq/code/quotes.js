@@ -2893,6 +2893,6 @@ let quotes = [
   {
     quoteText:
       'Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.',
-    quoteAuthor: 'Byron Pulsifer',
+    quoteAuthor: 'Byron Pulsifer ',
   },
 ];
