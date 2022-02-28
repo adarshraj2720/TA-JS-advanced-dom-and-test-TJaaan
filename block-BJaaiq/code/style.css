@@ -1,0 +1,19 @@
+body{
+    font-family: 'Italianno', cursive;
+    /* max-width: 1200px;
+    width: 100%;
+    margin: 0 auto; */
+    margin-left: 100px;
+}
+div{
+    margin: 50px 0px;
+}
+li{
+    font-size: 3rem;
+    font-weight: 000;
+}
+cite{
+    font-size: 2rem;
+    margin-top: 100px;
+    margin-left: 80px;
+}
